@@ -26,10 +26,10 @@ A simple and interactive Rock Paper Scissors game built using **HTML**, **CSS**,
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript **
 
 ---
 
 # Screenshot
 
-
+![Screenshot](images/game.png)
